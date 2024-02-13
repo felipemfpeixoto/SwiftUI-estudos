@@ -112,7 +112,6 @@
 			isa = PBXGroup;
 			children = (
 				0FF9AED52B7C193E0073C39E /* Preview Assets.xcassets */,
-				0FF9AEF92B7C19E50073C39E /* Home.swift */,
 			);
 			path = "Preview Content";
 			sourceTree = "<group>";
@@ -137,6 +136,7 @@
 		0FF9AEF82B7C19D00073C39E /* Views */ = {
 			isa = PBXGroup;
 			children = (
+				0FF9AEF92B7C19E50073C39E /* Home.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
